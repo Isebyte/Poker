@@ -1,6 +1,6 @@
 # Poker!
 
-"I suck at poker." ~ Me
+*"I suck at poker."* ~ Me
 
 This simple Java project includes several files that takes in a multi-line input of 
 player id's and hands of cards and outputs the winner(s) of the poker game. I have split
