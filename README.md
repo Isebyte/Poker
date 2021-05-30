@@ -15,9 +15,9 @@ of modularity. It was originally coded in Eclipse (Mac), then exported as a runn
 
 
 ### Additional Notes
-1. I assumed that the input will always be in the correct format,
-   although I have added some system exits if card format/number/num players is incorrect.
+1. Assumed that the input will always be in the correct format,
+   although system exits have been added if card format/number/num players is incorrect.
 2. Users can input card letter formats as capital or lower case letters.
 3. User ids do not have to be sequential, but have to be 2-digit numbers.
-4. I assumed that suits are all considered equal.
-5. I have included additional tests within the tests folder.
+4. Suits are all considered equal.
+5. I included additional tests within the tests folder.
