@@ -1,6 +1,8 @@
 # Poker!
 
-This Java project includes several files that takes in a multi-line input of 
+"I suck at poker." ~ Me
+
+This simple Java project includes several files that takes in a multi-line input of 
 player id's and hands of cards and outputs the winner(s) of the poker game. I have split
 up the implementation between five files, one being a wrapper for the game for the sake
 of modularity. It was originally coded in Eclipse (Mac), then exported as a runnable jar file.
